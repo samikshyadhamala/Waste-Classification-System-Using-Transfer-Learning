@@ -33,6 +33,10 @@ Offline data augmentation significantly improved performance.
 
 <img width="485" height="273" alt="image" src="https://github.com/user-attachments/assets/aa39785e-2b4a-47c4-b059-839f0f8f0bcd" />
 
+## Hardware integration result 
+
+<img width="501" height="742" alt="image" src="https://github.com/user-attachments/assets/80254733-c9d6-40a5-a644-794e2ea1dc67" />
+
 <img width="501" height="742" alt="image" src="https://github.com/user-attachments/assets/0cb5f610-385c-4e81-bbcd-6cdf66ed9d2d" />
 
 **Pipeline**
