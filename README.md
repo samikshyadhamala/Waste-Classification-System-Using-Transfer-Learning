@@ -42,6 +42,7 @@ Offline data augmentation significantly improved performance.
 ---
 
 ## Project Structure
+```
 5catModel/
 ├── waste_classification.ipynb
 └── 5cat_mobilenet_best.pth
@@ -58,4 +59,4 @@ plastic/
 
 train/
 test/
-
+```
