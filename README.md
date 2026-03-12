@@ -32,13 +32,6 @@ Offline data augmentation significantly improved performance.
 ## Hardware setup
 <img width="501" height="742" alt="image" src="https://github.com/user-attachments/assets/0cb5f610-385c-4e81-bbcd-6cdf66ed9d2d" />
 
-## Hardware integration results
-
-| Image 1 | Image 2 |
-|---------|---------|
-| ![](<img width="501" height="742" alt="image" src="https://github.com/user-attachments/assets/75d40c7b-ed38-4a42-9e0d-92fe3da0f1d7" />) | ![](<img width="501" height="742" alt="image" src="https://github.com/user-attachments/assets/43d38671-2731-43b4-ab26-667ab2f518b0" />) |
-
-
 **Pipeline**
 
 1. Camera captures waste image  
